@@ -1,0 +1,28 @@
+{
+  "name": "@mparulski/eslint-config",
+  "version": "0.1.0",
+  "description": "eslint config",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mparulski/eslint-config.git"
+  },
+  "keywords": [
+    "lint",
+    "eslint"
+  ],
+  "author": "michal.parulski@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mparulski/eslint-config/issues"
+  },
+  "homepage": "https://github.com/mparulski/eslint-config#readme",
+  "dependencies": {
+    "babel-eslint": "10.0.1",
+    "eslint": "5.16.0",
+    "eslint-plugin-import": "2.17.3"
+  }
+}
